@@ -1,6 +1,6 @@
 # Git notes
 
-Working notes on `git` uage, internals, and common problems.
+Working notes on `git` usage, internals, and common problems.
 
 
 📂 `inbox/`: Unsorted ideas, experiments with commands
